@@ -4,3 +4,5 @@ make.inc
 make_table_example
 nulibtable_driver
 point_example
+.DS_Store
+point_output.txt
