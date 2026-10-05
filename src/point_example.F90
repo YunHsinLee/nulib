@@ -32,7 +32,7 @@ program point_example
   !number of energy groups
   integer :: mypoint_number_groups = 24
 
-  character*200 :: parameters = "/projects/ceclub/gr1dnulib/GitHub/NuLib/parameters"
+  character*200 :: parameters = "./parameters"
 
   !local variables
   real*8, allocatable,dimension(:,:) :: local_emissivity
